@@ -232,7 +232,7 @@ function Header() {
       <div className="headend">
         <div className="queryhead">
          <BsWhatsapp className='contact__option-icon' /> <span>Ask a query on
-8826978461</span>
+7428098866</span>
         </div>
         <div className="user-account">
           <a href="/">Sign In</a>
